@@ -47,6 +47,8 @@ FIREBASE_APP_ID=your_firebase_app_id
 
 # Google API Key for Google Places and other services
 GOOGLE_API_KEY=your_google_api_key
+GOOGLE_GEMINI_AI_API_KEY=your_google_ai_api_key
+GOOGLE_AUTH_CLIENT_ID=your_google_auth_client_id
 ```
 ````
 
